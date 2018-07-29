@@ -3,14 +3,22 @@
 This project is made in ASP and C#. It was my first foray into anything front-end related since high school HTML courses, but I am happy with how it turned out.
 
 Noteworthy Functions/Achievements:
+
 • SQL connection for loading of the user database.
+
 • Rotating ads at the bottom of home page thanks to a bit of C# mumbo-jumbo. It currently loads and leads to random websites, based on a list of ads that I provide. This is something really cool, IMO.
+
 • Session management that allows users to create accounts, log in logout and the works. All the functionality is hidden neatly behind this feature, and I have implemented redirects to Account Creation at all points, I think.
 
+
 Possible Improvements:
+
 • Move away from traditional CSS and move the website to a modern UI. It currently looks and works nicely on both PCs and Mobile, but that is because I have done a bit of CSS tinkering. It certainly doesn't have a 'modern' or 'metro' look. It's more like a Government website from the 2000's.
+
 • Clean up the code a bit. Currently, I have a working mess of code, with almost no way of knowing what breaks, if something does break. I should have modularised the project properly, and also maybe added a good src folder system.
+
 • Remove any copyrighted material. This is not fully required, since this was an academic project. However, you may want to scour the directory for any and all copyrighted materials, just in case.
+
 
 
 Licensing and Stuff:
