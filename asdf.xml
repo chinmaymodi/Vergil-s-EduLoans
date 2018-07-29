@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/asdf/1.png</ImageUrl>
+    <NavigateUrl>http://theevansconsultinggroup.com/</NavigateUrl>
+    <AlternateText>Visit Evans Consulting</AlternateText>
+    <Impressions>10</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/asdf/2.png</ImageUrl>
+    <NavigateUrl>https://www.niccp.com/</NavigateUrl>
+    <AlternateText>Become a College Planning Specialist</AlternateText>
+    <Impressions>10</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/asdf/3.png</ImageUrl>
+    <NavigateUrl>https://www.credible.com/</NavigateUrl>
+    <AlternateText>Visit Credible Refinancing and Help</AlternateText>
+    <Impressions>10</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/asdf/4.png</ImageUrl>
+    <NavigateUrl>http://moneysavingexpert.com/</NavigateUrl>
+    <AlternateText>Save more!</AlternateText>
+    <Impressions>10</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/asdf/5.png</ImageUrl>
+    <NavigateUrl>http://dcm.uhcl.edu/c432016fa02modic/</NavigateUrl>
+    <AlternateText>Visit Vergil's EduLoans</AlternateText>
+    <Impressions>10</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/asdf/6.png</ImageUrl>
+    <NavigateUrl>http://www.aslc.us/</NavigateUrl>
+    <AlternateText>Visit Us!</AlternateText>
+    <Impressions>10</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/asdf/7.png</ImageUrl>
+    <NavigateUrl>http://usstudentloancenter.org/</NavigateUrl>
+    <AlternateText>Visit Us!</AlternateText>
+    <Impressions>10</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/asdf/8.png</ImageUrl>
+    <NavigateUrl>http://myffam.com/</NavigateUrl>
+    <AlternateText>We can help!</AlternateText>
+    <Impressions>10</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/asdf/9.png</ImageUrl>
+    <NavigateUrl>http://premierstudentloancenter.com/</NavigateUrl>
+    <AlternateText>Find out how we can help you more!</AlternateText>
+    <Impressions>10</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/asdf/0.png</ImageUrl>
+    <NavigateUrl>https://www.salliemae.com/</NavigateUrl>
+    <AlternateText>Sallie May Bank</AlternateText>
+    <Impressions>10</Impressions>
+  </Ad>
+</Advertisements>

@@ -4,7 +4,7 @@ This project is made in ASP and C#. It was my first foray into anything front-en
 
 Noteworthy Functions/Achievements:
 • SQL connection for loading of the user database.
-• Rotating ads at the bottom of home page thanks to a bit of JS voodoo. It currently loads and leads to random websites, based on a list of ads that I provide. This is something really cool, IMO.
+• Rotating ads at the bottom of home page thanks to a bit of C# mumbo-jumbo. It currently loads and leads to random websites, based on a list of ads that I provide. This is something really cool, IMO.
 • Session management that allows users to create accounts, log in logout and the works. All the functionality is hidden neatly behind this feature, and I have implemented redirects to Account Creation at all points, I think.
 
 Possible Improvements:

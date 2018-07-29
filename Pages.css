@@ -1,0 +1,136 @@
+﻿body {
+    max-width: 1000px;
+    margin: auto;
+    background-color: paleturquoise;
+    font-size: 16px;
+    /* With Javascript, we will try font-size=0.75vh, and set a minimum, so font looks big on wider windows, and decreases
+        upto a limit on smaller windows.
+        Without JS however, behavior is weird on smaller screen sizes, especially once it reaches mobile sizes
+    */
+}
+
+.header {
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    display: block;
+    border: 0;
+}
+
+#homeline {
+    background-color: orange;
+    margin: 0;
+    color: blue;
+    overflow: auto;
+    font-size: 16px;
+}
+
+.alignleft {
+    float: left;
+}
+
+.alignright {
+    float: right;
+}
+
+.alignmid {
+    clear: both;
+    text-align: center;
+}
+
+.pagetitle {
+    clear: both;
+}
+
+table.table1, table.table1 tr, table.table1 td {
+    border: 1px solid black;
+    color: black;
+    border-collapse: collapse;
+    vertical-align: central;
+    font-size: 20px;
+    max-width: auto;
+}
+
+#table2, #table2 tr, #table2 td {
+    border: 1px solid black;
+    color: black;
+    border-collapse: collapse;
+    vertical-align: central;
+    font-size: 20px;
+    max-width: auto;
+}
+
+table.table3, table.table3 tr, table.table3 td {
+    padding: 0;
+    color: blue;
+    border: 0px solid black;
+    border-collapse: collapse;
+    vertical-align: central;
+    font-size: 20px;
+    max-width: auto;
+}
+
+table.table4, table.table4 tr, table.table4 td {
+    color: blue;
+    border: 1px solid black;
+    border-collapse: collapse;
+    vertical-align: central;
+    font-size: 25px;
+    max-width: auto;
+}
+
+    table.table4 .left {
+        text-align: left;
+    }
+
+    table.table4 .right {
+        text-align: right;
+        font-weight: bold;
+    }
+
+    table.table4 tr:nth-child(even) {
+        background: #FFF;
+    }
+
+    table.table4 tr:nth-child(odd) {
+        background: lightblue;
+    }
+
+#message {
+    min-width: 100%;
+    width: 100%;
+    max-width: 100%;
+    min-height: 200px;
+}
+
+input:disabled {
+    background-color: lightgray;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+    .tooltip .tooltiptext {
+        opacity: 0.9;
+        visibility: hidden;
+        width: 700px;
+        overflow: auto;
+        bottom: 100%;
+        left: 50%;
+        margin-left: -350px; /* Use half of the width (120/2 = 60), to center the tooltip */
+        background-color: white;
+        color: black;
+        text-align: justify;
+        border-radius: 10px;
+        padding: 15px 15px 15px 15px;
+        /* Position the tooltip */
+        position: absolute;
+        z-index: 1;
+    }
+
+    .tooltip:hover .tooltiptext {
+        visibility: visible;
+    }
